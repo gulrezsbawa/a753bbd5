@@ -1,6 +1,4 @@
-import './css/body.css';
-import './css/app.css';
-import './css/header.css';
+import "./styles/body.css";
+import "./styles/app.css";
 
-import App from './App.jsx';
-
+import App from "./App.jsx";
