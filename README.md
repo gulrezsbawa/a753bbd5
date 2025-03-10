@@ -78,7 +78,7 @@ PATCH /activities/:call_id
 
 ## Deployment
 
-The application is deployed on **[Netlify/Vercel/Render]**. You can access the live version here:
+The application is deployed on **Netlify**. You can access the live version here:
 
 🔗 **Live Demo**: [Aircall Assignment Link](https://remarkable-souffle-45dcde.netlify.app/)
 
